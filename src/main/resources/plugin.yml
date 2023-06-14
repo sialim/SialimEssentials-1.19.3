@@ -1,0 +1,11 @@
+name: SialimEssentials
+version: '${project.version}'
+main: me.sialim.sialimessentials.SialimEssentials
+api-version: 1.19
+commands:
+  hurt:
+    description: Deals damage to player.
+    usage: /<command>
+    aliases:
+      - damage
+      - eliminate
